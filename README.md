@@ -1,2 +1,5 @@
 # Manufacturing-Resource
-Resources for Manufacturing
+
+## Data
+
+- (Import / Export Trade Statistics of India](https://tradestat.commerce.gov.in/)
